@@ -1,4 +1,3 @@
-/* creates an interface named Student */
 interface Student {
   firstName: string;
   lastName: string;
